@@ -1,0 +1,97 @@
+h1 {
+font-size: 70px;
+text-align: center;
+}
+hr {
+	background-color: #8d7aaa;
+	height: 2px;
+	width: 50%;
+}
+p {
+	text-align: center;
+	font-size: 25px;
+}
+.sign-in,.sign-up {
+	color: black;
+	text-decoration: none;
+	font-size: 30px;
+	margin: 10px;
+}
+.active {
+	color: white;
+	border-bottom: 2px solid orange;
+}
+form {
+	background-color:  #60428e;
+	width: 50%;
+	margin: auto;
+	padding: 20px;
+	box-sizing:border-box;
+	border-radius: 15px;
+}
+form p{
+	color: white;
+}
+.action {
+	width: fit-content;
+	margin: auto;
+}
+.login p {
+	font-size: 30px;
+	color: white;
+}
+.login input {
+	width: 90%;
+	border: none;
+	text-align: center;
+	background-color: #8d7aaa;
+	opacity: 0.9;
+	border-radius: 50px;
+	padding: 15px;
+	color: white;
+	box-sizing: border-box;
+	margin: auto;
+	display: block;
+}
+.wrapper {
+	text-align: center;
+
+}
+.wrapper p{
+	display: inline;
+	padding: 5px;	
+	}
+.about {
+	width: 90%;
+	border: none;
+	text-align: center;
+	background-color: #8d7aaa;
+	opacity: 0.9;
+	border-radius: 20px;
+	padding: 15px;
+	color: white;
+	border: none;
+	box-sizing: border-box;
+	margin: auto;
+	display: block;
+}
+.buttom {
+	width: 90%;
+	background-color: orange;
+	padding: 25px;
+	border-radius: 20px;
+	text-align: center;
+	font-size: 30px;
+	box-sizing: border-box;
+	margin: 8px auto;
+	display: block;
+}
+p {
+	margin-top: 50px;
+}
+.white {
+	width: 90%;
+	margin-top: 50px;
+	fitter: blur(2px);
+	height: 2px;
+}
